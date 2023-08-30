@@ -236,6 +236,10 @@ transition: none;
   color: var(--light);
   padding-bottom: 40px;
 }
+.box .row .images .info form i{
+  font-size: 50px;
+  color: #fff;
+}
 .box .row .images .info form .input-box{
   position: relative;
 }
